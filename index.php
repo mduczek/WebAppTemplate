@@ -29,6 +29,7 @@
     <link href="css/styles.css" rel="stylesheet">
 
     <!-- scripts -->
+    <script src="js/utils.js" type="text/javascript"></script>
     <script src="coffee/main.js" type="text/javascript"></script>
     <!--<script src="js/groups_main.js" type="text/javascript"></script>-->
     <!--<script src="js/notify_main.js" type="text/javascript"></script>-->
